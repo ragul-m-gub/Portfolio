@@ -1,0 +1,26 @@
+html{
+    font-size: 24px;
+    
+}
+
+
+body{
+    background-color: black;
+    color: white;
+}
+button{
+    background-color: rgb(26, 31, 36);
+    color: aquamarine;
+}
+a{
+    color: bisque;
+}
+h1{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
